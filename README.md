@@ -2,40 +2,25 @@
 
 ## Projektbeschreibung
 
-Im Rahmen einer Lehrveranstaltung Webanwendungsysteme wurde eine Webanwendung zur Verwaltung und Ausleihe von IT-Geräten entwickelt. Ziel des Projekts war die Digitalisierung des Ausleihprozesses sowie die Bereitstellung von Funktionen zur Verwaltung von Geräten und zur Unterstützung administrativer Aufgaben.
-
-Die Anwendung wurde nach dem **Model-View-Controller (MVC)-Architekturmuster** entwickelt. Durch die Trennung von Datenmodell, Geschäftslogik und Benutzeroberfläche entstand eine strukturierte, wartbare und erweiterbare Softwarearchitektur.
+ich habe im Rahmen der Lehrveranstaltung **Webanwendungssysteme** wurde eine Webanwendung zur Verwaltung und Ausleihe von IT-Geräten entwickelt. Ziel war die Digitalisierung des Ausleihprozesses sowie die Unterstützung administrativer Aufgaben. Die Anwendung wurde nach dem **Model-View-Controller (MVC)-Architekturmuster** umgesetzt, wodurch Datenmodell, Geschäftslogik und Benutzeroberfläche klar getrennt werden.
 
 ## Funktionen
 
-Die Anwendung bietet unter anderem folgende Funktionen:
-
-- Verwaltung von IT-Geräten (Anlegen, Bearbeiten und Löschen)
+- Verwaltung von IT-Geräten (CRUD-Operationen)
 - Ausleihe und Rückgabe von Geräten
-- Übersicht über verfügbare und ausgeliehene Geräte
-- Verwaltung von Benutzern
-- Unterstützung administrativer Support-Prozesse
-- Datenpersistierung in einer relationalen PostgreSQL-Datenbank
+- Übersicht verfügbarer und ausgeliehener Geräte
+- Benutzerverwaltung
+- Speicherung der Daten in einer PostgreSQL-Datenbank
 
-## Umsetzung
+## Umsetzung & Technologien
 
-Die Geschäftslogik wurde in **Java** implementiert, während die Benutzeroberfläche mit **JavaServer Pages (JSP)**, **HTML**, **CSS** und **JavaScript** realisiert wurde. Die Daten wurden mithilfe von **SQL** in einer **PostgreSQL-Datenbank** gespeichert und verwaltet.
+Die Anwendung wurde mit **Java**, **JSP**, **HTML**, **CSS** und **JavaScript** entwickelt. Die Datenverwaltung erfolgt über **SQL** und **PostgreSQL**.
 
-Die Anwendung folgt dem MVC-Paradigma:
-
+MVC-Struktur:
 - **Model:** Datenmodell und Datenbankzugriffe
-- **View:** Benutzeroberfläche mit JSP, HTML und CSS
-- **Controller:** Verarbeitung der Benutzeranfragen und Steuerung der Geschäftslogik
-
-## Technologien
-
-- **Java** - Implementierung der Geschäftslogik
-- **JSP (JavaServer Pages)** - Dynamische Weboberfläche
-- **HTML & CSS** - Struktur und Gestaltung der Anwendung
-- **JavaScript** - Interaktive Benutzeroberfläche
-- **SQL** - Datenbankabfragen
-- **PostgreSQL** - Relationale Datenbank
+- **View:** Benutzeroberfläche
+- **Controller:** Steuerung der Geschäftslogik
 
 ## Lernergebnisse
 
-Im Rahmen des Projekts wurden praktische Erfahrungen in der Entwicklung datenbankgestützter Webanwendungen sowie in der Digitalisierung betrieblicher Geschäftsprozesse gesammelt. Dabei wurden insbesondere Kenntnisse in der Umsetzung des **MVC-Architekturmusters**, der Entwicklung von CRUD-Anwendungen sowie der Integration einer relationalen Datenbank vertieft.
+Das Projekt vertiefte Kenntnisse in der Entwicklung datenbankgestützter Webanwendungen, CRUD-Operationen sowie der Umsetzung des MVC-Architekturmusters und relationaler Datenbanken.
