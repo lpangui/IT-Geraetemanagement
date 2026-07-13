@@ -41,11 +41,17 @@ Die Anwendung folgt dem MVC-Paradigma:
 Im Rahmen des Projekts wurden praktische Kenntnisse in folgenden Bereichen vertieft:
 
 Entwicklung von Webanwendungen nach dem MVC-Paradigma
+
 Objektorientierte Softwareentwicklung
+
 Umsetzung von CRUD-Funktionalitäten
+
 Rollen- und Benutzerverwaltung
+
 Datenbankmodellierung und Datenverwaltung
+
 Strukturierte Softwarearchitektur
+
 Analyse und Umsetzung fachlicher Anforderungen
 
 Das Projekt vermittelt die grundlegenden Konzepte moderner Webanwendungsentwicklung und zeigt die Umsetzung eines praxisnahen Systems zur Verwaltung von IT-Geräten und administrativen Prozessen.
