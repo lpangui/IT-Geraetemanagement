@@ -1,4 +1,4 @@
-# IT-Gerätemanagement – Ausleihsystem & Support-Tools
+# IT-Gerätemanagement - Ausleihsystem & Support-Tools
 
 ## Projektbeschreibung
 
