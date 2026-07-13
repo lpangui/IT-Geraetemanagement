@@ -29,29 +29,13 @@ Die Anwendung folgt dem MVC-Paradigma:
 
 ## Technologien
 
-- **Java** – Implementierung der Geschäftslogik
-- **JSP (JavaServer Pages)** – Dynamische Weboberfläche
-- **HTML & CSS** – Struktur und Gestaltung der Anwendung
-- **JavaScript** – Interaktive Benutzeroberfläche
-- **SQL** – Datenbankabfragen
-- **PostgreSQL** – Relationale Datenbank
+- **Java** - Implementierung der Geschäftslogik
+- **JSP (JavaServer Pages)** - Dynamische Weboberfläche
+- **HTML & CSS** - Struktur und Gestaltung der Anwendung
+- **JavaScript** - Interaktive Benutzeroberfläche
+- **SQL** - Datenbankabfragen
+- **PostgreSQL** - Relationale Datenbank
 
 ## Lernergebnisse
 
-Im Rahmen des Projekts wurden praktische Kenntnisse in folgenden Bereichen vertieft:
-
-Entwicklung von Webanwendungen nach dem MVC-Paradigma
-
-Objektorientierte Softwareentwicklung
-
-Umsetzung von CRUD-Funktionalitäten
-
-Rollen- und Benutzerverwaltung
-
-Datenbankmodellierung und Datenverwaltung
-
-Strukturierte Softwarearchitektur
-
-Analyse und Umsetzung fachlicher Anforderungen
-
-Das Projekt vermittelt die grundlegenden Konzepte moderner Webanwendungsentwicklung und zeigt die Umsetzung eines praxisnahen Systems zur Verwaltung von IT-Geräten und administrativen Prozessen.
+Im Rahmen des Projekts wurden praktische Erfahrungen in der Entwicklung datenbankgestützter Webanwendungen sowie in der Digitalisierung betrieblicher Geschäftsprozesse gesammelt. Dabei wurden insbesondere Kenntnisse in der Umsetzung des **MVC-Architekturmusters**, der Entwicklung von CRUD-Anwendungen sowie der Integration einer relationalen Datenbank vertieft.
